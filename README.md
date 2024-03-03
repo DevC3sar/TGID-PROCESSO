@@ -19,21 +19,26 @@ Ainda não há deploy disponível.
 
 ## Pré-requisitos
 
-- ⚠️ Java 11
-- ⚠️ Spring Boot 2.5
-- ⚠️ Maven
-- ⚠️ MySQL
+Antes de iniciar, verifique se você possui os seguintes pré-requisitos instalados em sua máquina:
+
+- ⚠️ [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- ⚠️ [Spring Boot 2.5](https://start.spring.io/)
+- ⚠️ [Maven](https://maven.apache.org/download.cgi)
+- ⚠️ [MySQL](https://dev.mysql.com/downloads/)
 
 ## Como Rodar a Aplicação ▶️
 
 1. Clone o projeto:
-
+git clone https://github.com/DevC3sar/TGID-PROCESSO
 
 2. Navegue até o diretório do projeto:
-
+cd TGID 
 
 3. Compile e execute a aplicação:
+mvn spring-boot:run
 
+4. Acesse a aplicação no navegador:
+http://localhost:8080
 
 ## Como Rodar os Testes
 
@@ -72,5 +77,8 @@ Em breve...
 ## Desenvolvedores/Contribuintes :octocat:
 
 - Guilherme Cesar de Brito (@D3vCesar)
+- Entre em contato comigo pelo Linkedin 🌐 | www.linkedin.com/in/guilhermecbrito
+- Telefone de Contato 📞 | (11) 95762-4862 
+
 
 Copyright ©️ Ano 2024 - Guilherme Cesar de Brito TGID Team
