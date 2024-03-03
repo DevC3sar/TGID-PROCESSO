@@ -73,3 +73,4 @@ Em breve...
 
 - Guilherme Cesar de Brito (@D3vCesar)
 
+Copyright ©️ Ano 2024 - Guilherme Cesar de Brito TGID Team
